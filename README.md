@@ -8,4 +8,4 @@ I am Senku Ishigami, a NixOS Infrastructure Engineer, specializing in functional
 
 <br>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=senku-btw&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=dark)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=senku-btw&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
